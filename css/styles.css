@@ -12,7 +12,12 @@ header {
 }
 
 #sslogo {
-    margin-left: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 120px;
+    
 }
 .img-container {
     display: flex;
