@@ -15,8 +15,8 @@ header {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
-    height: 120px;
+    width: 24%;
+    height: 95%;
     
 }
 .img-container {
@@ -56,18 +56,11 @@ h2 {
     font-family: 'Lobster', cursive;
 }
 
-h3 {
+/* h3 {
     display: flex;
     justify-content: center;
     margin-bottom: 1rem;
-}
-
-
-h4, h5, h6 {
-    display: flex;
-    justify-content: flex-start;
-}
-
+} */
 
 .collapsible {
     background-color: black;
