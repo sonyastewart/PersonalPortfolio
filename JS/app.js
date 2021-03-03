@@ -57,7 +57,7 @@ for (i = 0; i < coll.length; i++) {
         this.classList.toggle("collapsed");
         var content = this.nextElementSibling;
         if (content.style.maxHeight) {
-            content.style.maxHeight = 80 % vh;
+            content.style.maxHeight = 80%vh;
         } else {
             content.style.maxHeight = content.scrollHeight + "px";
         }
